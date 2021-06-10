@@ -1,0 +1,6 @@
+Regular Expressions fpr extracting each of the fields:
+System.Text.RegularExpressions.Regex.Match (extracted_data,"Date.*").Value.Split(" ".ToCharArray)(1)
+System.Text.RegularExpressions.Regex.Match(extracted_data,"Name.*").Value.Split(":".ToCharArray)(1)
+System.Text.RegularExpressions.Regex.Match(extracted_data,"USN.*").Value.Split(":".ToCharArray)(1)
+System.Text.RegularExpressions.Regex.Match(extracted_data,"PAID.*").Value.Split(" ".ToCharArray)(1)
+System.Text.RegularExpressions.Regex.Match(extracted_data,"BALANCE.*").Value.Split(" ".ToCharArray)(1)

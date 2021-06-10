@@ -1,0 +1,12 @@
+Hi {0}
+
+Academic Fee Payment of Rs.{1} has been received on {2}
+The outstanding fee to be paid is Rs.{3}
+Kindly pay the outstanding fee at the earliest.
+
+For any queries contact bms.payments.support@gmail.com
+
+Thanks and Regards,
+BMSCE Payments Support
+BMS College of Engineering
+Basavangudi, Bengaluru.
